@@ -1,0 +1,12 @@
+#login-module{
+    /* border: solid rebeccapurple; */
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    padding: 36px 40px;
+    background: rgb(233, 223, 243);
+    margin: auto;
+}
+#login-module input{line-height: 4px;
+ margin: 6px 0px;
+}
